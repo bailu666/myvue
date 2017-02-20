@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # myvue
 
 > A Vue.js project
@@ -24,3 +25,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 优众全球U选(vue项目)
 http://tuxuan.ihaveu.com/
+=======
+# myvue
+>>>>>>> dcac6851fdfe1082dd339819b1b3f64d87af9c7b
