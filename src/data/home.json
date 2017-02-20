@@ -1,0 +1,544 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": [
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "4.8折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdc/857/174/1183115640692174857/0/3386460010412-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/857/174/1183115640692174857/0/3386460010412-14.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/857/174/1183115640692174857/0/3386460010412-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/857/174/1183115640692174857/0/3386460010412-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/857/174/1183115640692174857/0/3386460010412-110_2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/857/174/1183115640692174857/0/3386460010412-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/857/174/1183115640692174857/0/3386460010412-110_20.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/857/174/1183115640692174857/0/3386460010412-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/857/174/1183115640692174857/0/3386460010412-13.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800007815,
+                "brandStoreName": "唯品会",
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "性感",
+                    "甜美",
+                    "优雅",
+                    "调皮"
+                ],
+                "favorite": false,
+                "gid": 83444008,
+                "hiTao": false,
+                "image": "https://i1.ihaveu.com/image/auction/product/000/119/462/major_pic/d5d0749a.jpg.l200.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 458,
+                "name": "唯品会浪凡珍浪凡女士香水30ml(又名：浪凡珍浪凡女士浓香水)",
+                "productName": "浪凡珍浪凡女士香水30ml(又名：浪凡珍浪凡女士浓香水)",
+                "saleOut": false,
+                "salecount": 0,
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdc/857/174/1183115640692174857/0/3386460010412-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdc/857/174/1183115640692174857/0/3386460010412-5.jpg",
+                "vipshopPrice": 218
+            },
+            "goodsStock": {
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "saled": 84,
+                "sizes": [
+                    {
+                        "name": "30ml",
+                        "sizeId": 214909180
+                    }
+                ],
+                "totalSaled": 84
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "4.7折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/85/1f39e8e6-d8f9-445f-b731-b24bbc5f4dd9.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/45/def9e467-14df-4487-919c-6b7a0d1474ed.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/80/f33d3054-a5e3-4c84-a4e7-9d9cbe8bf76d.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/159/82cce5f3-700f-464a-9275-9a68195b164c.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/103/7bdf366b-caee-4b70-ad2d-48c8a23e2133.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/166/3ed6cbb8-cbb2-47aa-8957-826630964831.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/23/e480c407-b006-4b47-bf3e-1391753e7227.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/12/1ebe9a22-6dda-4b73-b252-c9b70504fa28.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/135/a47bbe3a-8e9d-4531-93e0-2890d4004931.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/108/bf1fbda1-2251-45de-8e92-7be95f6ad8c8.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/195/fb7761bf-c02d-48a7-9d21-86d290e4346a.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/70/6d8dac43-a289-4a78-ab83-6ad75f49cdd5.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800007815,
+                "brandStoreName": "大卫杜夫",
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "清澈",
+                    "透明",
+                    "清新",
+                    "舒畅"
+                ],
+                "favorite": false,
+                "gid": 128768536,
+                "hiTao": false,
+                "image": "https://i2.ihaveu.com/image/auction/product/000/117/494/major_pic/e2423a93.jpg.l200.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 510,
+                "name": "大卫杜夫冷水男士香水75ml(又名:男士香水)",
+                "productName": "冷水男士香水75ml(又名:男士香水)",
+                "saleOut": false,
+                "salecount": 0,
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/159/82cce5f3-700f-464a-9275-9a68195b164c.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/01/85/1f39e8e6-d8f9-445f-b731-b24bbc5f4dd9.jpg",
+                "vipshopPrice": 239
+            },
+            "goodsStock": {
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "saled": 1687,
+                "sizes": [
+                    {
+                        "name": "75ml",
+                        "sizeId": 330671531
+                    }
+                ],
+                "totalSaled": 1687
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "5.6折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdc/448/698/1039000451175698448/0/085805763749-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/448/698/1039000451175698448/0/085805763749-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/448/698/1039000451175698448/0/085805763749-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/448/698/1039000451175698448/0/085805763749-110_2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/448/698/1039000451175698448/0/085805763749-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/448/698/1039000451175698448/0/085805763749-110_20.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/448/698/1039000451175698448/0/085805763749-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/448/698/1039000451175698448/0/085805763749-13.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800008185,
+                "brandStoreName": "伊丽莎白雅顿",
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "果香调"
+                ],
+                "favorite": false,
+                "gid": 112522739,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdc/448/698/1039000451175698448/0/085805763749-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 210,
+                "name": "伊丽莎白雅顿伊丽莎白雅顿绿茶香水 30ml",
+                "productName": "伊丽莎白雅顿绿茶香水 30ml",
+                "saleOut": false,
+                "salecount": 0,
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdc/448/698/1039000451175698448/0/085805763749-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdc/448/698/1039000451175698448/0/085805763749-5.jpg",
+                "vipshopPrice": 118
+            },
+            "goodsStock": {
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "saled": 274,
+                "sizes": [
+                    {
+                        "name": "30ml",
+                        "sizeId": 291110071
+                    }
+                ],
+                "totalSaled": 274
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "6.1折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdc/654/050/1020423104161050654/0/737052495538-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/654/050/1020423104161050654/0/737052495538-14.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/654/050/1020423104161050654/0/737052495538-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/654/050/1020423104161050654/0/737052495538-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/654/050/1020423104161050654/0/737052495538-110_2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/654/050/1020423104161050654/0/737052495538-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/654/050/1020423104161050654/0/737052495538-110_20.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/654/050/1020423104161050654/0/737052495538-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/654/050/1020423104161050654/0/737052495538-13.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800007750,
+                "brandStoreName": "GUCCI",
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "成熟",
+                    "性感",
+                    "知性",
+                    "高贵"
+                ],
+                "favorite": false,
+                "gid": 83452218,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdc/654/050/1020423104161050654/0/737052495538-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 750,
+                "name": "GUCCI经典奢华香水30ml(EDP)",
+                "productName": "经典奢华香水30ml(EDP)",
+                "saleOut": false,
+                "salecount": 0,
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdc/654/050/1020423104161050654/0/737052495538-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdc/654/050/1020423104161050654/0/737052495538-5.jpg",
+                "vipshopPrice": 459
+            },
+            "goodsStock": {
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "saled": 48,
+                "sizes": [
+                    {
+                        "name": "30ml",
+                        "sizeId": 214925187
+                    }
+                ],
+                "totalSaled": 48
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "5.6折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/25/38/02db186b-00b9-45eb-b119-3208cd703449.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/25/169/c9f0d837-4628-43ac-87ec-90e7c55547f3.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/25/175/656c5b1b-f158-4c51-9d23-7bf1352d58ac.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/25/173/575cf4dd-5df3-4d7d-98b1-700111bf6434.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/vis/1862/20002505-488/129/1330944-mz-110_3.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/25/146/525e776e-0e76-42ed-b720-8f734715d99a.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/25/56/2d111df8-4e48-43db-b10b-5a9a2ea57f1b.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/25/126/e892874e-be3d-42cd-8326-0cd4eded54d1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/01/13/164/66f16696-b6c2-4519-9542-e7a1ff904324.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/01/13/117/ede2d09f-585a-4540-a84b-252df222f4dc.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/01/13/199/c487b861-7679-41f0-a5a4-9e6b8e752e67.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/01/13/152/9a1288ef-298f-4414-8cb0-0de937beed5c.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/01/13/52/de54d520-a3fd-4eea-9b2c-ed37118b45b8.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/01/13/79/bccd8786-30c2-4615-ae76-37a5f7f37090.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/01/13/113/7bcdbfc8-4c98-46be-bd83-175b4b0397a8.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800007363,
+                "brandStoreName": "博柏利",
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "温柔",
+                    "舒适",
+                    "自信"
+                ],
+                "favorite": false,
+                "gid": 128666117,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/25/38/02db186b-00b9-45eb-b119-3208cd703449.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 790,
+                "name": "博柏利情缘男士香水100ml",
+                "productName": "情缘男士香水100ml",
+                "saleOut": false,
+                "salecount": 0,
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/25/175/656c5b1b-f158-4c51-9d23-7bf1352d58ac.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/25/38/02db186b-00b9-45eb-b119-3208cd703449.jpg",
+                "vipshopPrice": 442
+            },
+            "goodsStock": {
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "saled": 921,
+                "sizes": [
+                    {
+                        "name": "100ml",
+                        "sizeId": 330421777
+                    }
+                ],
+                "totalSaled": 921
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "5.4折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdc/846/755/1082347599022755846/0/088300104406-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/846/755/1082347599022755846/0/088300104406-14.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/846/755/1082347599022755846/0/088300104406-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/846/755/1082347599022755846/0/088300104406-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/846/755/1082347599022755846/0/088300104406-110_2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/846/755/1082347599022755846/0/088300104406-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/846/755/1082347599022755846/0/088300104406-110_20.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/846/755/1082347599022755846/0/088300104406-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/846/755/1082347599022755846/0/088300104406-13.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800007815,
+                "brandStoreName": "卡尔文克莱恩",
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "个性",
+                    "中性",
+                    "温润"
+                ],
+                "favorite": false,
+                "gid": 83437175,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdc/846/755/1082347599022755846/0/088300104406-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 510,
+                "name": "卡尔文克莱恩莱比淡香水100ml",
+                "productName": "莱比淡香水100ml",
+                "saleOut": false,
+                "salecount": 0,
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdc/846/755/1082347599022755846/0/088300104406-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdc/846/755/1082347599022755846/0/088300104406-5.jpg",
+                "vipshopPrice": 275
+            },
+            "goodsStock": {
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "saled": 121,
+                "sizes": [
+                    {
+                        "name": "100ml",
+                        "sizeId": 214883294
+                    }
+                ],
+                "totalSaled": 121
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "7.5折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/154/c532972c-f098-46e3-8def-773d3353dd68.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/158/24cb281b-3adf-4e74-a682-2350ba78374f.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/27/8fa19fd6-2fb8-435c-bc0c-d732abd50c44.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/01/13/197/f6d5e3d5-83ef-4172-a0e3-3a434f082477.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/vis/1482/20008901-455/67/1161840-mz-110_3.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/101/611aa3a0-676d-4106-bcde-bc76ef623845.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/45/5ac9b66f-6b78-4448-a611-048840abb400.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/183/745f868c-c136-426f-92b3-3121450a09a3.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/109/4c5c4cff-8b15-4d4e-b87f-b12296d8e93b.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/115/f0245054-cd76-4ff0-b15e-0acb9c9a68a8.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/58/611a9872-e516-44c1-9e28-4d9cee31fe91.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/150/ce0c5b8d-04b3-4ede-bddd-7d371a6e2b78.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/98/5d1969f9-abbd-40e5-9649-8e10d8604632.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800008175,
+                "brandStoreName": "范思哲",
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "自信",
+                    "优雅",
+                    "绅士"
+                ],
+                "favorite": false,
+                "gid": 128662510,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/154/c532972c-f098-46e3-8def-773d3353dd68.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 480,
+                "name": "范思哲绅情香水50ml",
+                "productName": "绅情香水50ml",
+                "saleOut": false,
+                "salecount": 0,
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/27/8fa19fd6-2fb8-435c-bc0c-d732abd50c44.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/09/154/c532972c-f098-46e3-8def-773d3353dd68.jpg",
+                "vipshopPrice": 360
+            },
+            "goodsStock": {
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "saled": 3415,
+                "sizes": [
+                    {
+                        "name": "50ml",
+                        "sizeId": 330413470
+                    }
+                ],
+                "totalSaled": 3415
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "6.3折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdc/022/448/807909493921448022/0/3386463038895-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/022/448/807909493921448022/0/3386463038895-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/022/448/807909493921448022/0/3386463038895-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/022/448/807909493921448022/0/3386463038895-110_2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/022/448/807909493921448022/0/3386463038895-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/022/448/807909493921448022/0/3386463038895-110_20.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/022/448/807909493921448022/0/3386463038895-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/022/448/807909493921448022/0/3386463038895-13.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800007363,
+                "brandStoreName": "博柏利",
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "淡雅",
+                    "经典",
+                    "大气"
+                ],
+                "favorite": false,
+                "gid": 137791033,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdc/022/448/807909493921448022/0/3386463038895-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 720,
+                "name": "博柏利博柏利BURBERRY伦敦香水50ml",
+                "productName": "博柏利BURBERRY伦敦香水50ml",
+                "saleOut": false,
+                "salecount": 0,
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdc/022/448/807909493921448022/0/3386463038895-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdc/022/448/807909493921448022/0/3386463038895-5.jpg",
+                "vipshopPrice": 452
+            },
+            "goodsStock": {
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "saled": 3,
+                "sizes": [
+                    {
+                        "name": "50ml",
+                        "sizeId": 353823563
+                    }
+                ],
+                "totalSaled": 3
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "7.8折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdc/907/850/1027178502153850907/2/085805268749-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/907/850/1027178502153850907/2/085805268749-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/907/850/1027178502153850907/2/085805268749-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/907/850/1027178502153850907/2/085805268749-110_2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/907/850/1027178502153850907/2/085805268749-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/907/850/1027178502153850907/2/085805268749-110_20.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/907/850/1027178502153850907/2/085805268749-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/907/850/1027178502153850907/2/085805268749-13.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800008185,
+                "brandStoreName": "伊丽莎白雅顿",
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "果香调"
+                ],
+                "favorite": false,
+                "gid": 112522747,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdc/907/850/1027178502153850907/2/085805268749-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 340,
+                "name": "伊丽莎白雅顿伊丽莎白雅顿绿茶香水 50ml",
+                "productName": "伊丽莎白雅顿绿茶香水 50ml",
+                "saleOut": false,
+                "salecount": 0,
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdc/907/850/1027178502153850907/2/085805268749-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdc/907/850/1027178502153850907/2/085805268749-5.jpg",
+                "vipshopPrice": 265
+            },
+            "goodsStock": {
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "saled": 3,
+                "sizes": [
+                    {
+                        "name": "50ml",
+                        "sizeId": 291110079
+                    }
+                ],
+                "totalSaled": 3
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "6.3折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdc/969/706/798902294666706969/0/5045252668122-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/969/706/798902294666706969/0/5045252668122-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/969/706/798902294666706969/0/5045252668122-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/969/706/798902294666706969/0/5045252668122-110_2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/969/706/798902294666706969/0/5045252668122-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/969/706/798902294666706969/0/5045252668122-110_20.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/969/706/798902294666706969/0/5045252668122-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/969/706/798902294666706969/0/5045252668122-13.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800007363,
+                "brandStoreName": "博柏利",
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "淡雅",
+                    "经典",
+                    "大气"
+                ],
+                "favorite": false,
+                "gid": 137790997,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdc/969/706/798902294666706969/0/5045252668122-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 720,
+                "name": "博柏利博柏利BURBERRY伦敦香水50ml",
+                "productName": "博柏利BURBERRY伦敦香水50ml",
+                "saleOut": false,
+                "salecount": 0,
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdc/969/706/798902294666706969/0/5045252668122-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdc/969/706/798902294666706969/0/5045252668122-5.jpg",
+                "vipshopPrice": 455
+            },
+            "goodsStock": {
+                "buyNumMax": 25,
+                "buyNumMin": 1,
+                "saled": 12,
+                "sizes": [
+                    {
+                        "name": "50ml",
+                        "sizeId": 353823446
+                    }
+                ],
+                "totalSaled": 12
+            }
+        }
+    ]
+}

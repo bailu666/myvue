@@ -1,0 +1,25 @@
+*{margin: 0;padding: 0;}
+html,body{font-size: 2vw;
+		  height: 100%;}
+a{text-decoration: none;}
+ul,dl,li{list-style: none;}
+#app{text-align: center;
+	   font-size: 2rem;
+     height: 100%;
+	.btn{position: fixed;
+		width: 13%;
+		left: 10vw;bottom: 20vw;
+	}
+	ul{width: 12rem;
+	   z-index: 99;
+     position: fixed;top: 0;left: 0;
+	   height: 100%;
+	   background:rgba(0,0,0,0.5);
+	   a{color: white;}
+	   li{padding-top:70%;
+	      img{width: 30%;
+	      }
+	   	}
+	}
+}
+

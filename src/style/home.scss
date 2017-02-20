@@ -1,0 +1,115 @@
+body{background: #EDEDED;}
+#home{position: relative;
+    overflow: hidden;
+    .home,#main1,#main2,#main3,#main4,#main5,#main6,#main7,#main8{background: white;}
+      .sp1{font-size: 3rem;
+      font-family: "微软雅黑";
+      color: #f94b44;
+      display: inline-block;
+      padding: 2vw 0;}
+      a{img{position: absolute;
+         padding: 2vw 0;
+         right: 5rem;}
+      }
+}
+#swiper{overflow: hidden;
+    img{width: 100%;}
+    .xiao{padding-bottom: 1%;
+         .swiper-pagination-bullet{width: 1vw;
+          height: 1vw;margin-left: 3%;}
+          .swiper-pagination-bullet-active{
+              background: white;
+          }
+    }
+}
+#mains{overflow: hidden;
+    dl{float: left;
+        width: 33%;
+        padding-bottom: 2rem;
+        dt{
+            img{width: 100%;}
+        }
+        dd:nth-of-type(1){font-size: 2.2rem;}
+        dd:nth-of-type(2){font-size: 1.8rem;color: orangered;width: 75%;float: left;}
+        dd:nth-of-type(3){font-size: 1.5rem;color: orangered;position: relative;float: right;width: 25%;
+            img{position: absolute;
+            right: 0.3rem;}
+        }
+    }
+    #main1{overflow: hidden;
+        padding-top: 3rem;
+        padding-bottom: 3rem;
+       dl{float: left;
+       margin-bottom: 1rem;
+       margin-left: 5%;
+       margin-right: 5%;
+       width: 15%;
+       dd{font-size: 1.5rem;}
+       img{width: 80%;}}
+    }
+    #main2{margin-top: 5%;
+        overflow: hidden;
+        font-family: "微软雅黑";
+        h1{
+            img{width: 40%;}
+        }
+    }
+    #main3{margin-top: 5%;
+    overflow: hidden;
+        h1{
+            img{width: 100%;}
+        }
+    }
+    #main4{margin-top: 5%;
+    overflow: hidden;
+        h1{
+            img{width: 100%;}
+        }
+    }
+    #main5{margin-top: 5%;
+    overflow: hidden;
+        h1{
+            img{width: 100%;}
+        }
+    }
+    #main6{margin-top: 5%;
+    overflow: hidden;
+        h1{
+            img{width: 100%;}
+        }
+    }
+    #main7{margin-top: 5%;
+        overflow: hidden;
+        font-family: "微软雅黑";
+        h1{
+            img{width: 30%;}
+        }
+        span{width: 32.5%;
+        display: inline-block;
+            img{width: 100%;}
+        }
+    }
+}
+#main8{margin-top: 5%;
+    overflow: hidden;
+    box-sizing: border-box;
+    font-family: "微软雅黑";
+    h1{
+        img{width: 35%;}
+    }
+    dl{width: 50%;float: left;
+    height: 30rem;
+        dd:nth-of-type(1){
+            font-size: 1.8rem;
+            color: #CECECE;
+            padding: 2rem 1.5rem;
+            height: 6rem;
+        }
+    }
+}
+#main9{margin-top: 5%;
+padding-bottom: 5%;
+font-family: "微软雅黑";
+    img{width: 100%;}
+    h3{font-size: 1.5rem;color: #CECECE;}
+}
